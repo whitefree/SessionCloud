@@ -33,3 +33,4 @@ No.|Session|Speaker|Date
 11. |Yu-Gi-Oh | Fengda HUANG | 22 May
 12. |Django & Ionic build map app | Fengda HUANG | TBD
 13. |Music Basic|Jingqiang|TBD
+14. |Frameworks Of Casa|Song Yuan|5 June
